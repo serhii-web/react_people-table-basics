@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,aACE,wBAAyB","file":"main.e0e991bc.chunk.css","sourcesContent":["// styles go here\n.PeopleTable {\n  border-collapse: collapse;\n}\n"]}
